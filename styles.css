@@ -75,7 +75,7 @@ ul li a:hover {
   border: 1px solid white;
 }
 
-#social-links { 
+#social-links {
   display: flex;
   padding: 24px 0;
   font-size: 24px;
@@ -99,4 +99,8 @@ ul li a:hover {
 footer {
   padding: 24px 0;
   text-align: center;
+}
+
+footer a {
+  text-decoration: none;
 }
